@@ -1,0 +1,13 @@
+username = admin
+password = admin@123!
+
+username = user
+password = user@123!
+
+username = user2
+password = user2@123!
+
+username = user3
+password = user3@123!
+
+Note : you can import the LittleLemonAPI.json to your Insomnia Apps
